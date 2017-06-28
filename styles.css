@@ -3,5 +3,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: "wingdings"
+    font-family: "Comic Sans MS";
+    color: Blue;
+    background-color: orange;
 }

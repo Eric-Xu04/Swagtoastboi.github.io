@@ -1,0 +1,14 @@
+body {
+    color: red;
+    background-color: orange;
+    font-family: "Comic Sans MS";
+}
+Head {
+    color: Red;
+}
+table, th, td {
+    border: 1px solid black;
+}
+#bekfast {
+    background-color: yellow;
+}
