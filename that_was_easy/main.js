@@ -4,6 +4,7 @@ function sayThatWasEasy() {
 }
 
 $("#easy").on("click", sayThatWasEasy);
+
 $(document).keypress(delegateKeypress);
 
 function delegateKeypress(event) {
